@@ -80,6 +80,6 @@ Since most of the participants are students and unemployed persons, the course t
 
 ## Recommendation
 ---
-For better, data from previous years is required 🙂. 
+For better insight, data from previous years is required 🙂. 
 
 
